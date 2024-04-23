@@ -8,11 +8,9 @@
 
 [2. Methodology](#method)
 
-[3. Analysis of Outputs](#output)
+[3. Results](#results)
 
-[4. Results](#results)
-
-[5. Discussion](#discuss)
+[4. Discussion](#discuss)
 
 [Conclusion](#concl)
 
@@ -28,14 +26,11 @@
 <a name="method"></a>
 ## 2. Methodology
 
-<a name="output"></a>
-## 3. Analysis of Outputs
-
 <a name="results"></a>
-## 4. Results
+## 3. Results
 
 <a name="discuss"></a>
-## 5. Discussion
+## 4. Discussion
 
 <a name="concl"></a>
 ## Conclusion
