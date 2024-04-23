@@ -6,13 +6,13 @@
 
 [1. Literature Review](#litreview)
 
-[2. Methodology](#method)
+[2. Data Collection and Methodology](#method)
 
-[3. Results](#results)
+[3. Results and Analysis](#results)
 
-[4. Discussion](#discuss)
+[4. Challenges and Limitations](#limits)
 
-[Conclusion](#concl)
+[Conclusion and Recommendations](#concl)
 
 [Bibliography](#bibl)
 
@@ -24,16 +24,16 @@
 ## 1. Literature Review
 
 <a name="method"></a>
-## 2. Methodology
+## 2. Data Collection and Methodology
 
 <a name="results"></a>
-## 3. Results
+## 3. Results and Analysis
 
-<a name="discuss"></a>
-## 4. Discussion
+<a name="limits"></a>
+## 4. Challenges and Limitations
 
 <a name="concl"></a>
-## Conclusion
+## Conclusion and Recommendations
 
 <a name="bibl"></a>
 ## Bibliography
