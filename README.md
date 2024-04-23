@@ -3,12 +3,19 @@
 
 ## Table of Contents
 [Introduction](#introduction)
+
 [1. Literature Review](#litreview)
+
 [2. Methodology](#method)
+
 [3. Analysis of Outputs](#output)
+
 [4. Results](#results)
+
 [5. Discussion](#discuss)
+
 [Conclusion](#concl)
+
 [Bibliography](#bibl)
 
 <a name="introduction"></a>
