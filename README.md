@@ -26,6 +26,8 @@
 <a name="method"></a>
 ## 3. Data Collection and Methodology
 
+#### 3.1. Research Design
+
 <a name="results"></a>
 ## 4. Results and Analysis
 
