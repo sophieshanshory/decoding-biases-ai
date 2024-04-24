@@ -56,7 +56,7 @@
 #### 4.2. Discover Weekly differences
 <p align="justify"> 
 
-#### 4.3. Playlist covers differences
+#### 4.3. Playlists' covers differences
 <p align="justify"> 
 
 <a name="limits"></a>
