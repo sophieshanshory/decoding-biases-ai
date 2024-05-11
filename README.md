@@ -7,6 +7,13 @@
 [2. Literature Review](#litreview)
 
 [3. Data Collection and Methodology](#method)
+<p align="justify"> 
+Investigating whether Spotify’s algorithms are biased is challenging, given that independent researchers do not have access to the system’s black box. The relationship between gender identity indicated while registering an account and the recommendation system is perplexing. Werner (2020) suggested that while gender is not a direct input, it may indirectly influence the recommendations users receive. Taking that into account, we devised an innovative research design through which we sought to understand how the indicated identity might influence Spotify’s recommendations.
+
+#### 1. Account creation
+<p align="justify"> 
+The investigation commenced by creating four new Spotify accounts with distinct gender identities: John Doe (man), Jamie Doe (prefer not to say), Jo Doe (non-binary), and Jane Doe (woman). All accounts utilized gender-neutral email addresses (e.g. zctqlgk@proton.me) to ensure gender wasn't revealed through the email address.
+
 
 [4. Results and Analysis](#results)
 
