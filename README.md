@@ -24,7 +24,9 @@ We coordinated the listening behaviour of all four accounts, as Spotify’s algo
 
 * After completing the previous steps, we coordinated listening to some podcasts. Purposefully, we chose episodes targeting female recipients to see if that may alter the recommendation system (the complete list of the podcasts can be found in the Annex)
 
-
+#### 3. Data collection and comparative analysis
+<p align="justify"> 
+Throughout the experiment, we captured screenshots of each account’s display to compare and identify potential discrepancies regarding the recommendations. At the conclusion of the experiment, we utilized Exportify, a tool that facilitates the export of playlists into spreadsheet format. We collected data on various recommendations, including Daily Mixes and “Discover Weekly” playlists. Then, we analyzed whether significant differences exist in terms of artists’ gender and profile (established vs. emerging) by coding each artist’s gender and status (we define an artist with over a million monthly listeners as an established one). Once we collected all the data, we prepared some exploratory data visualizations and descriptive statistics to describe our findings. 
 
 [4. Results and Analysis](#results)
 
