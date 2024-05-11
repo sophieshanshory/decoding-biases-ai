@@ -16,7 +16,8 @@ The investigation commenced by creating four new Spotify accounts with distinct 
 
 #### 2. Listening experiment
 <p align= "justify">
-We coordinated the listening behaviour of all four accounts, as Spotify’s algorithms use timing in their recommendations
+We coordinated the listening behaviour of all four accounts, as Spotify’s algorithms use timing in their recommendations.
+  
 * Firstly, we listened to music from the ‘New Music Friday’ playlist for two weeks at the same intervals. This playlist is one of the most important avenues for emerging artists to promote their music (Aguiar and Waldfogel, 2020). Every week, 50 new songs are added to each country’s playlist. During the first week of our experiment, we listened to roughly half of the ranking, and the next week, we heard through the entire playlist.
 
 * Once Spotify created some recommendations through the ‘Discover Weekly’ playlist, we analyzed them to see if there were any discrepancies. The vast majority of songs (26 out of 30) overlapped. We found only a few disparities. We created playlists at each respective account with a generic name, ‘My Playlist #1’, featuring 26 songs that overlapped across all four accounts. As with the ‘New Music Friday’ playlist, we listened to the playlist at the same intervals.
