@@ -37,6 +37,7 @@
 #### 2.2. Podcast Recommendations
 <p align="justify"> 
 
+<p align= 'justify'>
 Given the complexity of algorithmically-generated music recommendations and the impossibility of reaching Spotify’s “black box”, we decided to look closely at how algorithms shape podcast recommendations. This is especially relevant given the increased demand for podcasts in recent years and the growing share of Spotify’s revenue coming from this stream (source 1, source 2). Furthermore, the issue of how algorithms shape users’ podcast preferences remains relatively unexplored. A secondary, compounding “black box” potentially exists for podcast recommendation algorithms. We do not know to what extent recommendation systems for music and podcasts are distinct. This is because the way people listen to and share podcasts differs from these patterns concerning music in two primary ways. 
 
 <p align= 'justify'>
